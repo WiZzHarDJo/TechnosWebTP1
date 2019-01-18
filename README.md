@@ -1,5 +1,9 @@
 # TechnosWebTP1
 
+## Eleve
+
+Joaquim GIRET-IMHAUS OCRES TD02
+
 ## Instructions
 
 Créer un site CV **présentable** qui pourra être mis en ligne par vos soins
