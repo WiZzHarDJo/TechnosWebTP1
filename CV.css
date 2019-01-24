@@ -1,6 +1,6 @@
 h3 {
     text-align: center;
-    color: #a7a8f3;
+    color: rgb(167, 168, 243);
 }
 
 li {
@@ -91,3 +91,17 @@ footer{
 .video{
     text-align: center;
 }
+
+.rocket{
+    float:left;
+    animation: bounce .5s alternate 0.1s infinite ease-in;
+}
+
+@keyframes bounce {
+    0% {
+      transform: translateY(-100%) translateX(100%);
+    }
+    100% {
+      transform: translateY(0) translateX(0);
+    }
+  }
