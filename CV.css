@@ -1,5 +1,6 @@
 h3 {
     text-align: center;
+    color: #a7a8f3;
 }
 
 li {
@@ -34,7 +35,9 @@ li {
     color: white;
   }
 
-
+section{
+    background-color: rgb(90,90,90);
+}
 
 button{
 	padding: 5px;
@@ -44,7 +47,8 @@ button:hover{
 	cursor: pointer;
 }
 body{
-	font-size: 18px; 
+    font-size: 18px; 
+    background-color: rgb(66, 66, 66);
 }
 
 .contact{
@@ -81,5 +85,9 @@ a:active
 
 footer{
     margin-top: 75px;
+    text-align: center;
+}
+
+.video{
     text-align: center;
 }
