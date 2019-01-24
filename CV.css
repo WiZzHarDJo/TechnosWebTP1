@@ -78,3 +78,8 @@ a:active
 	text-decoration: underline;
 	color: black;
 }
+
+footer{
+    margin-top: 75px;
+    text-align: center;
+}
